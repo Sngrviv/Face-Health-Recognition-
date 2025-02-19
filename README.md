@@ -15,7 +15,7 @@ This project utilizes Vision Transformers (ViTs) to analyze and classify skin he
 
 ## 🚀 Get Started
 ### Open in Google Colab
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/your-repo-name/blob/main/notebook.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sngrviv/Face-Health-Recognition-/blob/main/notebook.ipynb)
 
 ### Run the Notebook
 
